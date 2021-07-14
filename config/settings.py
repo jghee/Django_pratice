@@ -82,7 +82,7 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': '127.0.0.1',
+        'HOST': 'db',
         'NAME': 'pybo',
         'USER': 'pybo',
         'PASSWORD': '1111',
